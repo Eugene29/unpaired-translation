@@ -1,6 +1,6 @@
-## Messy scripts (Cleaning of code will take place soon)
+## Messy scripts (Cleaning of code and README guide is under construction)
 
-## 1.To view waveform plots of translated waveforms with CPU-net using Transformers, check out Eugi folder
+## 1.To view waveform plots of translated waveforms with Transformers variation of CPU-net, check out Eugi folder
 
 ## 2.To view Diffusion model generated plots, check out:
 - generated.png
