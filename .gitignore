@@ -1,0 +1,5 @@
+## ignore
+*.pth
+*.pt
+*.pickle
+*.hdf5
