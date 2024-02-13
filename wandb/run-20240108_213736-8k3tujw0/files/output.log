@@ -1,0 +1,82 @@
+Read a single batch from the test loader, translating it through the ATN
+uh oh, reparamtrization during evaluation? nuh uh!
+Plot simulated pulses, data pulses and translated pulses in the same plot.
+[Slow code]: Obtain the critical reconstruction parameters of each waveform by looping through the test dataset
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+ 33%|███▎      | 23/69 [00:01<00:02, 19.33it/s]
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+
+ 91%|█████████▏| 63/69 [00:03<00:00, 19.75it/s]
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+time: 3.777651309967041
+normalized slope_HIoU:
+72.24951731787522
+
+100%|██████████| 69/69 [00:03<00:00, 18.28it/s]
+current AMP HIOU:
+5.195857374971539

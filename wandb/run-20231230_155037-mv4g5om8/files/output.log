@@ -1,0 +1,83 @@
+
+Read a single batch from the test loader, translating it through the ATN
+uh oh, reparamtrization during evaluation? nuh uh!
+Plot simulated pulses, data pulses and translated pulses in the same plot.
+[Slow code]: Obtain the critical reconstruction parameters of each waveform by looping through the test dataset
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+ 36%|███▌      | 25/69 [00:01<00:02, 18.85it/s]
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+
+ 91%|█████████▏| 63/69 [00:03<00:00, 18.65it/s]
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+uh oh, reparamtrization during evaluation? nuh uh!
+time: 3.767162322998047
+normalized slope_HIoU:
+59.46653599923304
+-------
+current AMP HIOU:
+
+100%|██████████| 69/69 [00:03<00:00, 18.32it/s]

@@ -1,0 +1,4 @@
+name: geom
+channels:
+  - defaults
+prefix: /home/eku/.conda/envs/geom

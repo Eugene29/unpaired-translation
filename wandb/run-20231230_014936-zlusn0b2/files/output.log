@@ -1,0 +1,10 @@
+
+Read a single batch from the test loader, translating it through the ATN
+Traceback (most recent call last):
+  File "plot_and_save.py", line 102, in <module>
+    outputs  = ATN(wf_deconv, deterministic=deterministic)
+  File "/home/eku/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/eku/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+TypeError: forward() got an unexpected keyword argument 'deterministic'

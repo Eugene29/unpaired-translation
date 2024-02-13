@@ -1,0 +1,24 @@
+Read a single batch from the test loader, translating it through the ATN
+Plot simulated pulses, data pulses and translated pulses in the same plot.
+  0%|          | 0/495 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|██████████| 495/495 [00:28<00:00, 17.45it/s]
+time: 28.365429401397705
+normalized slope_HIoU:
+68.85013059498449
+-------
+current AMP HIOU:
+22.599322277739212

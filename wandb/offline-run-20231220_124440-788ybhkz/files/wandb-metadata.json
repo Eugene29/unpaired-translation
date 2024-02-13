@@ -1,0 +1,257 @@
+{
+    "os": "Linux-4.18.0-477.15.1.el8_8.x86_64-x86_64-with-glibc2.10",
+    "python": "3.8.8",
+    "heartbeatAt": "2023-12-20T20:44:41.663986",
+    "startedAt": "2023-12-20T20:44:40.981727",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "Eugi",
+        "6",
+        "80",
+        "0.0",
+        "5",
+        "6",
+        "True",
+        "True"
+    ],
+    "state": "running",
+    "program": "train.py",
+    "codePathLocal": "train.py",
+    "codePath": "train.py",
+    "git": {
+        "remote": "https://github.com/aobol/CPU-Net",
+        "commit": "07c4c9fe26475d36b440a17c1ab90b826c1fcb36"
+    },
+    "email": null,
+    "root": "/home/eku/cpu-gan",
+    "host": "exp-4-60",
+    "username": "eku",
+    "executable": "/cm/shared/apps/spack/0.17.3/gpu/b/opt/spack/linux-rocky8-skylake_avx512/gcc-8.5.0/anaconda3-2021.05-kfluefzsateihlamuk2qihp56exwe7si/bin/python",
+    "cpu_count": 40,
+    "cpu_count_logical": 40,
+    "cpu_freq": {
+        "current": 2813.18085,
+        "min": 1000.0,
+        "max": 3900.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3758.136,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3768.193,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3753.086,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2642.646,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2629.332,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2866.661,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2568.744,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2643.314,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3430.088,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2577.994,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2583.627,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2636.955,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2621.041,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2585.071,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2631.831,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2646.468,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2612.941,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3878.112,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2747.215,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2594.131,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3124.11,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2623.239,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2743.467,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2643.126,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2622.823,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2584.89,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2753.103,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2591.18,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3586.636,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2646.353,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3558.914,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2635.809,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3439.838,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2584.24,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2627.94,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2591.817,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2631.762,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2633.799,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3404.572,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2632.177,
+            "min": 1000.0,
+            "max": 3900.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 62.44486618041992,
+            "used": 12.682037353515625
+        }
+    },
+    "gpu": "Tesla V100-SXM2-32GB",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "Tesla V100-SXM2-32GB",
+            "memory_total": 34359738368
+        }
+    ],
+    "memory": {
+        "total": 376.52764892578125
+    }
+}

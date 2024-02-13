@@ -1,0 +1,702 @@
+[Training 0.0% Done] Epoch: 0
+ Total Losses: Total: 68.4931 loss_G: 65.7248 loss_D_A: 1.3637 loss_D_B: 1.4046
+[Training 0.3% Done] Epoch: 0
+ Total Losses: Total: 55.7176 loss_G: 53.1101 loss_D_A: 1.3183 loss_D_B: 1.2893
+[Training 0.7% Done] Epoch: 0
+ Total Losses: Total: 48.8129 loss_G: 46.3411 loss_D_A: 1.2695 loss_D_B: 1.2023
+[Training 1.0% Done] Epoch: 0
+ Total Losses: Total: 45.2313 loss_G: 42.9011 loss_D_A: 1.2183 loss_D_B: 1.1120
+[Training 1.4% Done] Epoch: 0
+ Total Losses: Total: 41.7696 loss_G: 39.5293 loss_D_A: 1.1759 loss_D_B: 1.0643
+[Training 1.7% Done] Epoch: 0
+ Total Losses: Total: 39.3298 loss_G: 37.2500 loss_D_A: 1.1091 loss_D_B: 0.9707
+[Training 2.1% Done] Epoch: 0
+ Total Losses: Total: 37.4230 loss_G: 35.3998 loss_D_A: 1.0800 loss_D_B: 0.9431
+[Training 2.4% Done] Epoch: 0
+ Total Losses: Total: 36.0437 loss_G: 34.1291 loss_D_A: 1.0303 loss_D_B: 0.8844
+[Training 2.8% Done] Epoch: 0
+ Total Losses: Total: 33.3132 loss_G: 31.4719 loss_D_A: 1.0103 loss_D_B: 0.8310
+[Training 3.1% Done] Epoch: 0
+ Total Losses: Total: 29.9330 loss_G: 28.2027 loss_D_A: 0.9480 loss_D_B: 0.7823
+[Training 3.5% Done] Epoch: 0
+ Total Losses: Total: 27.5864 loss_G: 25.9576 loss_D_A: 0.8764 loss_D_B: 0.7523
+[Training 3.8% Done] Epoch: 0
+ Total Losses: Total: 25.3292 loss_G: 23.7693 loss_D_A: 0.8490 loss_D_B: 0.7108
+[Training 4.2% Done] Epoch: 0
+ Total Losses: Total: 21.8716 loss_G: 20.4583 loss_D_A: 0.7694 loss_D_B: 0.6440
+[Training 4.5% Done] Epoch: 0
+ Total Losses: Total: 19.6709 loss_G: 18.3335 loss_D_A: 0.7115 loss_D_B: 0.6259
+[Training 4.9% Done] Epoch: 0
+ Total Losses: Total: 17.6731 loss_G: 16.4648 loss_D_A: 0.6434 loss_D_B: 0.5650
+[Training 5.2% Done] Epoch: 0
+ Total Losses: Total: 15.2931 loss_G: 14.1887 loss_D_A: 0.5860 loss_D_B: 0.5184
+[Training 5.6% Done] Epoch: 0
+ Total Losses: Total: 13.9729 loss_G: 12.9516 loss_D_A: 0.5381 loss_D_B: 0.4832
+[Training 5.9% Done] Epoch: 0
+ Total Losses: Total: 12.7637 loss_G: 11.8790 loss_D_A: 0.4859 loss_D_B: 0.3988
+[Training 6.2% Done] Epoch: 0
+ Total Losses: Total: 11.7708 loss_G: 10.9472 loss_D_A: 0.4367 loss_D_B: 0.3869
+[Training 6.6% Done] Epoch: 0
+ Total Losses: Total: 10.6806 loss_G: 9.9570 loss_D_A: 0.3851 loss_D_B: 0.3385
+[Training 6.9% Done] Epoch: 0
+ Total Losses: Total: 9.6694 loss_G: 9.0325 loss_D_A: 0.3486 loss_D_B: 0.2884
+[Training 7.3% Done] Epoch: 0
+ Total Losses: Total: 9.2417 loss_G: 8.6967 loss_D_A: 0.2469 loss_D_B: 0.2981
+[Training 7.6% Done] Epoch: 0
+ Total Losses: Total: 8.8157 loss_G: 8.3160 loss_D_A: 0.2045 loss_D_B: 0.2951
+[Training 8.0% Done] Epoch: 0
+ Total Losses: Total: 8.7765 loss_G: 8.4118 loss_D_A: 0.1511 loss_D_B: 0.2136
+[Training 8.3% Done] Epoch: 0
+ Total Losses: Total: 9.1933 loss_G: 8.9331 loss_D_A: 0.1332 loss_D_B: 0.1270
+[Training 8.7% Done] Epoch: 0
+ Total Losses: Total: 9.6633 loss_G: 9.4616 loss_D_A: 0.1010 loss_D_B: 0.1008
+[Training 9.0% Done] Epoch: 0
+ Total Losses: Total: 10.0098 loss_G: 9.7947 loss_D_A: 0.0917 loss_D_B: 0.1235
+[Training 9.4% Done] Epoch: 0
+ Total Losses: Total: 9.9227 loss_G: 9.7366 loss_D_A: 0.0565 loss_D_B: 0.1296
+[Training 9.7% Done] Epoch: 0
+ Total Losses: Total: 11.0646 loss_G: 10.9416 loss_D_A: 0.0517 loss_D_B: 0.0713
+[Training 10.1% Done] Epoch: 0
+ Total Losses: Total: 10.7065 loss_G: 10.6125 loss_D_A: 0.0324 loss_D_B: 0.0615
+[Training 10.4% Done] Epoch: 0
+ Total Losses: Total: 11.1641 loss_G: 11.0952 loss_D_A: 0.0327 loss_D_B: 0.0363
+[Training 10.8% Done] Epoch: 0
+ Total Losses: Total: 11.1931 loss_G: 11.1304 loss_D_A: 0.0312 loss_D_B: 0.0316
+[Training 11.1% Done] Epoch: 0
+ Total Losses: Total: 11.6468 loss_G: 11.5849 loss_D_A: 0.0368 loss_D_B: 0.0251
+[Training 11.5% Done] Epoch: 0
+ Total Losses: Total: 10.9231 loss_G: 10.8637 loss_D_A: 0.0232 loss_D_B: 0.0362
+[Training 11.8% Done] Epoch: 0
+ Total Losses: Total: 11.6548 loss_G: 11.5961 loss_D_A: 0.0340 loss_D_B: 0.0247
+[Training 12.2% Done] Epoch: 0
+ Total Losses: Total: 11.8197 loss_G: 11.7765 loss_D_A: 0.0269 loss_D_B: 0.0162
+[Training 12.5% Done] Epoch: 0
+ Total Losses: Total: 12.3402 loss_G: 12.3080 loss_D_A: 0.0171 loss_D_B: 0.0151
+[Training 12.8% Done] Epoch: 0
+ Total Losses: Total: 12.9421 loss_G: 12.8957 loss_D_A: 0.0347 loss_D_B: 0.0117
+[Training 13.2% Done] Epoch: 0
+ Total Losses: Total: 12.9382 loss_G: 12.9091 loss_D_A: 0.0184 loss_D_B: 0.0107
+[Training 13.5% Done] Epoch: 0
+ Total Losses: Total: 12.5451 loss_G: 12.5107 loss_D_A: 0.0222 loss_D_B: 0.0122
+[Training 13.9% Done] Epoch: 0
+ Total Losses: Total: 13.4424 loss_G: 13.4067 loss_D_A: 0.0254 loss_D_B: 0.0103
+[Training 14.2% Done] Epoch: 0
+ Total Losses: Total: 12.5361 loss_G: 12.4825 loss_D_A: 0.0426 loss_D_B: 0.0110
+[Training 14.6% Done] Epoch: 0
+ Total Losses: Total: 13.1101 loss_G: 13.0850 loss_D_A: 0.0168 loss_D_B: 0.0083
+[Training 14.9% Done] Epoch: 0
+ Total Losses: Total: 12.7342 loss_G: 12.7079 loss_D_A: 0.0169 loss_D_B: 0.0093
+[Training 15.3% Done] Epoch: 0
+ Total Losses: Total: 13.1408 loss_G: 13.1161 loss_D_A: 0.0170 loss_D_B: 0.0077
+[Training 15.6% Done] Epoch: 0
+ Total Losses: Total: 12.6470 loss_G: 12.6186 loss_D_A: 0.0208 loss_D_B: 0.0076
+[Training 16.0% Done] Epoch: 0
+ Total Losses: Total: 13.3727 loss_G: 13.3430 loss_D_A: 0.0228 loss_D_B: 0.0069
+[Training 16.3% Done] Epoch: 0
+ Total Losses: Total: 12.3002 loss_G: 12.2725 loss_D_A: 0.0152 loss_D_B: 0.0125
+[Training 16.7% Done] Epoch: 0
+ Total Losses: Total: 13.5124 loss_G: 13.4902 loss_D_A: 0.0159 loss_D_B: 0.0063
+[Training 17.0% Done] Epoch: 0
+ Total Losses: Total: 14.1042 loss_G: 13.5847 loss_D_A: 0.0147 loss_D_B: 0.5048
+[Training 17.4% Done] Epoch: 0
+ Total Losses: Total: 13.7061 loss_G: 13.6904 loss_D_A: 0.0103 loss_D_B: 0.0054
+[Training 17.7% Done] Epoch: 0
+ Total Losses: Total: 13.5240 loss_G: 13.5083 loss_D_A: 0.0109 loss_D_B: 0.0048
+[Training 18.1% Done] Epoch: 0
+ Total Losses: Total: 13.2612 loss_G: 13.2439 loss_D_A: 0.0106 loss_D_B: 0.0067
+[Training 18.4% Done] Epoch: 0
+ Total Losses: Total: 12.7558 loss_G: 12.7339 loss_D_A: 0.0165 loss_D_B: 0.0054
+[Training 18.8% Done] Epoch: 0
+ Total Losses: Total: 13.8368 loss_G: 13.8228 loss_D_A: 0.0091 loss_D_B: 0.0049
+[Training 19.1% Done] Epoch: 0
+ Total Losses: Total: 13.1422 loss_G: 13.1242 loss_D_A: 0.0124 loss_D_B: 0.0056
+[Training 19.4% Done] Epoch: 0
+ Total Losses: Total: 11.5330 loss_G: 11.4472 loss_D_A: 0.0092 loss_D_B: 0.0766
+[Training 19.8% Done] Epoch: 0
+ Total Losses: Total: 11.7009 loss_G: 11.6441 loss_D_A: 0.0086 loss_D_B: 0.0482
+[Training 20.1% Done] Epoch: 0
+ Total Losses: Total: 14.5711 loss_G: 14.5611 loss_D_A: 0.0064 loss_D_B: 0.0036
+[Training 20.5% Done] Epoch: 0
+ Total Losses: Total: 13.4067 loss_G: 13.3902 loss_D_A: 0.0115 loss_D_B: 0.0050
+[Training 20.8% Done] Epoch: 0
+ Total Losses: Total: 12.5327 loss_G: 12.5003 loss_D_A: 0.0105 loss_D_B: 0.0218
+[Training 21.2% Done] Epoch: 0
+ Total Losses: Total: 13.1475 loss_G: 13.1318 loss_D_A: 0.0102 loss_D_B: 0.0055
+[Training 21.5% Done] Epoch: 0
+ Total Losses: Total: 13.8721 loss_G: 13.8619 loss_D_A: 0.0056 loss_D_B: 0.0046
+[Training 21.9% Done] Epoch: 0
+ Total Losses: Total: 14.2933 loss_G: 14.2758 loss_D_A: 0.0142 loss_D_B: 0.0032
+[Training 22.2% Done] Epoch: 0
+ Total Losses: Total: 14.8417 loss_G: 14.8318 loss_D_A: 0.0068 loss_D_B: 0.0032
+[Training 22.6% Done] Epoch: 0
+ Total Losses: Total: 14.6041 loss_G: 14.5945 loss_D_A: 0.0067 loss_D_B: 0.0028
+[Training 22.9% Done] Epoch: 0
+ Total Losses: Total: 15.0071 loss_G: 14.9958 loss_D_A: 0.0084 loss_D_B: 0.0029
+[Training 23.3% Done] Epoch: 0
+ Total Losses: Total: 11.8432 loss_G: 11.7798 loss_D_A: 0.0090 loss_D_B: 0.0544
+[Training 23.6% Done] Epoch: 0
+ Total Losses: Total: 12.4092 loss_G: 12.3716 loss_D_A: 0.0332 loss_D_B: 0.0043
+[Training 24.0% Done] Epoch: 0
+ Total Losses: Total: 11.1054 loss_G: 11.0028 loss_D_A: 0.0182 loss_D_B: 0.0844
+[Training 24.3% Done] Epoch: 0
+ Total Losses: Total: 12.2136 loss_G: 12.1795 loss_D_A: 0.0075 loss_D_B: 0.0267
+[Training 24.7% Done] Epoch: 0
+ Total Losses: Total: 13.6320 loss_G: 13.6151 loss_D_A: 0.0143 loss_D_B: 0.0027
+[Training 25.0% Done] Epoch: 0
+ Total Losses: Total: 10.1197 loss_G: 10.0426 loss_D_A: 0.0180 loss_D_B: 0.0591
+[Training 25.3% Done] Epoch: 0
+ Total Losses: Total: 15.0314 loss_G: 15.0215 loss_D_A: 0.0072 loss_D_B: 0.0026
+[Training 25.7% Done] Epoch: 0
+ Total Losses: Total: 12.9858 loss_G: 12.8962 loss_D_A: 0.0871 loss_D_B: 0.0025
+[Training 26.0% Done] Epoch: 0
+ Total Losses: Total: 16.5256 loss_G: 16.5057 loss_D_A: 0.0176 loss_D_B: 0.0022
+[Training 26.4% Done] Epoch: 0
+ Total Losses: Total: 14.3514 loss_G: 14.3329 loss_D_A: 0.0152 loss_D_B: 0.0032
+[Training 26.7% Done] Epoch: 0
+ Total Losses: Total: 15.1397 loss_G: 15.0907 loss_D_A: 0.0467 loss_D_B: 0.0022
+[Training 27.1% Done] Epoch: 0
+ Total Losses: Total: 15.6221 loss_G: 15.6150 loss_D_A: 0.0034 loss_D_B: 0.0037
+[Training 27.4% Done] Epoch: 0
+ Total Losses: Total: 15.4430 loss_G: 15.4361 loss_D_A: 0.0049 loss_D_B: 0.0021
+[Training 27.8% Done] Epoch: 0
+ Total Losses: Total: 13.8860 loss_G: 13.8730 loss_D_A: 0.0103 loss_D_B: 0.0027
+[Training 28.1% Done] Epoch: 0
+ Total Losses: Total: 15.2718 loss_G: 15.2608 loss_D_A: 0.0090 loss_D_B: 0.0021
+[Training 28.5% Done] Epoch: 0
+ Total Losses: Total: 15.6444 loss_G: 15.6381 loss_D_A: 0.0043 loss_D_B: 0.0020
+[Training 28.8% Done] Epoch: 0
+ Total Losses: Total: 16.0497 loss_G: 16.0387 loss_D_A: 0.0089 loss_D_B: 0.0021
+[Training 29.2% Done] Epoch: 0
+ Total Losses: Total: 13.6209 loss_G: 13.5992 loss_D_A: 0.0146 loss_D_B: 0.0071
+[Training 29.5% Done] Epoch: 0
+ Total Losses: Total: 15.1509 loss_G: 15.1433 loss_D_A: 0.0035 loss_D_B: 0.0041
+[Training 29.9% Done] Epoch: 0
+ Total Losses: Total: 12.8793 loss_G: 12.8217 loss_D_A: 0.0117 loss_D_B: 0.0459
+[Training 30.2% Done] Epoch: 0
+ Total Losses: Total: 12.9379 loss_G: 12.8888 loss_D_A: 0.0024 loss_D_B: 0.0467
+[Training 30.6% Done] Epoch: 0
+ Total Losses: Total: 16.0032 loss_G: 15.9907 loss_D_A: 0.0105 loss_D_B: 0.0020
+[Training 30.9% Done] Epoch: 0
+ Total Losses: Total: 13.3958 loss_G: 13.3511 loss_D_A: 0.0129 loss_D_B: 0.0318
+[Training 31.2% Done] Epoch: 0
+ Total Losses: Total: 11.6496 loss_G: 11.5630 loss_D_A: 0.0122 loss_D_B: 0.0744
+[Training 31.6% Done] Epoch: 0
+ Total Losses: Total: 16.5130 loss_G: 16.5077 loss_D_A: 0.0031 loss_D_B: 0.0022
+[Training 31.9% Done] Epoch: 0
+ Total Losses: Total: 16.0695 loss_G: 16.0632 loss_D_A: 0.0042 loss_D_B: 0.0022
+[Training 32.3% Done] Epoch: 0
+ Total Losses: Total: 15.2321 loss_G: 15.2236 loss_D_A: 0.0058 loss_D_B: 0.0027
+[Training 32.6% Done] Epoch: 0
+ Total Losses: Total: 16.0822 loss_G: 16.0740 loss_D_A: 0.0061 loss_D_B: 0.0021
+[Training 33.0% Done] Epoch: 0
+ Total Losses: Total: 15.9414 loss_G: 15.9317 loss_D_A: 0.0073 loss_D_B: 0.0024
+[Training 33.3% Done] Epoch: 0
+ Total Losses: Total: 13.9315 loss_G: 13.9209 loss_D_A: 0.0073 loss_D_B: 0.0033
+[Training 33.7% Done] Epoch: 0
+ Total Losses: Total: 15.3416 loss_G: 15.3044 loss_D_A: 0.0350 loss_D_B: 0.0021
+[Training 34.0% Done] Epoch: 0
+ Total Losses: Total: 16.9356 loss_G: 16.6376 loss_D_A: 0.2960 loss_D_B: 0.0020
+[Training 34.4% Done] Epoch: 0
+ Total Losses: Total: 16.4172 loss_G: 16.4112 loss_D_A: 0.0040 loss_D_B: 0.0020
+[Training 34.7% Done] Epoch: 0
+ Total Losses: Total: 14.4045 loss_G: 14.3873 loss_D_A: 0.0136 loss_D_B: 0.0037
+[Training 35.1% Done] Epoch: 0
+ Total Losses: Total: 15.1572 loss_G: 15.1500 loss_D_A: 0.0030 loss_D_B: 0.0041
+[Training 35.4% Done] Epoch: 0
+ Total Losses: Total: 12.7655 loss_G: 12.7378 loss_D_A: 0.0036 loss_D_B: 0.0240
+[Training 35.8% Done] Epoch: 0
+ Total Losses: Total: 13.4608 loss_G: 13.4495 loss_D_A: 0.0026 loss_D_B: 0.0086
+[Training 36.1% Done] Epoch: 0
+ Total Losses: Total: 13.2692 loss_G: 13.2437 loss_D_A: 0.0109 loss_D_B: 0.0146
+[Training 36.5% Done] Epoch: 0
+ Total Losses: Total: 13.4369 loss_G: 13.4225 loss_D_A: 0.0029 loss_D_B: 0.0115
+[Training 36.8% Done] Epoch: 0
+ Total Losses: Total: 12.7893 loss_G: 12.7700 loss_D_A: 0.0153 loss_D_B: 0.0041
+[Training 37.2% Done] Epoch: 0
+ Total Losses: Total: 13.7299 loss_G: 13.7203 loss_D_A: 0.0027 loss_D_B: 0.0068
+[Training 37.5% Done] Epoch: 0
+ Total Losses: Total: 12.7887 loss_G: 12.7681 loss_D_A: 0.0163 loss_D_B: 0.0044
+[Training 37.8% Done] Epoch: 0
+ Total Losses: Total: 15.2735 loss_G: 15.2667 loss_D_A: 0.0039 loss_D_B: 0.0029
+[Training 38.2% Done] Epoch: 0
+ Total Losses: Total: 15.6818 loss_G: 15.6704 loss_D_A: 0.0087 loss_D_B: 0.0027
+[Training 38.5% Done] Epoch: 0
+ Total Losses: Total: 16.7502 loss_G: 16.7404 loss_D_A: 0.0072 loss_D_B: 0.0026
+[Training 38.9% Done] Epoch: 0
+ Total Losses: Total: 13.2396 loss_G: 13.2052 loss_D_A: 0.0305 loss_D_B: 0.0039
+[Training 39.2% Done] Epoch: 0
+ Total Losses: Total: 15.6892 loss_G: 15.6838 loss_D_A: 0.0021 loss_D_B: 0.0033
+[Training 39.6% Done] Epoch: 0
+ Total Losses: Total: 15.8499 loss_G: 15.8445 loss_D_A: 0.0021 loss_D_B: 0.0033
+[Training 39.9% Done] Epoch: 0
+ Total Losses: Total: 16.6086 loss_G: 16.6000 loss_D_A: 0.0064 loss_D_B: 0.0022
+[Training 40.3% Done] Epoch: 0
+ Total Losses: Total: 14.6244 loss_G: 14.6113 loss_D_A: 0.0070 loss_D_B: 0.0061
+[Training 40.6% Done] Epoch: 0
+ Total Losses: Total: 14.1860 loss_G: 14.1770 loss_D_A: 0.0054 loss_D_B: 0.0036
+[Training 41.0% Done] Epoch: 0
+ Total Losses: Total: 14.0431 loss_G: 14.0274 loss_D_A: 0.0121 loss_D_B: 0.0035
+[Training 41.3% Done] Epoch: 0
+ Total Losses: Total: 12.9515 loss_G: 12.9161 loss_D_A: 0.0316 loss_D_B: 0.0038
+[Training 41.7% Done] Epoch: 0
+ Total Losses: Total: 12.1873 loss_G: 12.1156 loss_D_A: 0.0679 loss_D_B: 0.0038
+[Training 42.0% Done] Epoch: 0
+ Total Losses: Total: 13.7794 loss_G: 13.6961 loss_D_A: 0.0787 loss_D_B: 0.0046
+[Training 42.4% Done] Epoch: 0
+ Total Losses: Total: 14.6837 loss_G: 14.5444 loss_D_A: 0.1362 loss_D_B: 0.0031
+[Training 42.7% Done] Epoch: 0
+ Total Losses: Total: 15.7772 loss_G: 15.7564 loss_D_A: 0.0187 loss_D_B: 0.0021
+[Training 43.1% Done] Epoch: 0
+ Total Losses: Total: 12.1511 loss_G: 12.1130 loss_D_A: 0.0327 loss_D_B: 0.0054
+[Training 43.4% Done] Epoch: 0
+ Total Losses: Total: 14.4917 loss_G: 14.4847 loss_D_A: 0.0034 loss_D_B: 0.0036
+[Training 43.8% Done] Epoch: 0
+ Total Losses: Total: 12.4650 loss_G: 12.4419 loss_D_A: 0.0179 loss_D_B: 0.0052
+[Training 44.1% Done] Epoch: 0
+ Total Losses: Total: 13.6898 loss_G: 13.6718 loss_D_A: 0.0143 loss_D_B: 0.0037
+[Training 44.4% Done] Epoch: 0
+ Total Losses: Total: 13.9289 loss_G: 13.9156 loss_D_A: 0.0093 loss_D_B: 0.0040
+[Training 44.8% Done] Epoch: 0
+ Total Losses: Total: 14.3592 loss_G: 14.3499 loss_D_A: 0.0037 loss_D_B: 0.0056
+[Training 45.1% Done] Epoch: 0
+ Total Losses: Total: 15.1353 loss_G: 15.1302 loss_D_A: 0.0021 loss_D_B: 0.0030
+[Training 45.5% Done] Epoch: 0
+ Total Losses: Total: 16.1984 loss_G: 16.1922 loss_D_A: 0.0042 loss_D_B: 0.0019
+[Training 45.8% Done] Epoch: 0
+ Total Losses: Total: 14.8259 loss_G: 14.8115 loss_D_A: 0.0114 loss_D_B: 0.0030
+[Training 46.2% Done] Epoch: 0
+ Total Losses: Total: 13.1303 loss_G: 13.0840 loss_D_A: 0.0433 loss_D_B: 0.0029
+[Training 46.5% Done] Epoch: 0
+ Total Losses: Total: 14.7927 loss_G: 14.6691 loss_D_A: 0.1208 loss_D_B: 0.0028
+[Training 46.9% Done] Epoch: 0
+ Total Losses: Total: 14.4912 loss_G: 14.4008 loss_D_A: 0.0873 loss_D_B: 0.0031
+[Training 47.2% Done] Epoch: 0
+ Total Losses: Total: 13.7339 loss_G: 13.7170 loss_D_A: 0.0107 loss_D_B: 0.0061
+[Training 47.6% Done] Epoch: 0
+ Total Losses: Total: 12.7593 loss_G: 12.7463 loss_D_A: 0.0096 loss_D_B: 0.0034
+[Training 47.9% Done] Epoch: 0
+ Total Losses: Total: 12.9433 loss_G: 12.9310 loss_D_A: 0.0066 loss_D_B: 0.0057
+[Training 48.3% Done] Epoch: 0
+ Total Losses: Total: 13.2521 loss_G: 13.2339 loss_D_A: 0.0101 loss_D_B: 0.0081
+[Training 48.6% Done] Epoch: 0
+ Total Losses: Total: 14.6522 loss_G: 14.6416 loss_D_A: 0.0079 loss_D_B: 0.0028
+[Training 49.0% Done] Epoch: 0
+ Total Losses: Total: 14.8111 loss_G: 14.7925 loss_D_A: 0.0160 loss_D_B: 0.0027
+[Training 49.3% Done] Epoch: 0
+ Total Losses: Total: 12.8197 loss_G: 12.7883 loss_D_A: 0.0089 loss_D_B: 0.0225
+[Training 49.7% Done] Epoch: 0
+ Total Losses: Total: 13.3134 loss_G: 13.2985 loss_D_A: 0.0084 loss_D_B: 0.0065
+[Training 50.0% Done] Epoch: 0
+ Total Losses: Total: 13.7908 loss_G: 13.7825 loss_D_A: 0.0023 loss_D_B: 0.0059
+[Training 50.3% Done] Epoch: 0
+ Total Losses: Total: 15.0444 loss_G: 14.5920 loss_D_A: 0.4491 loss_D_B: 0.0032
+[Training 50.7% Done] Epoch: 0
+ Total Losses: Total: 13.9831 loss_G: 13.9715 loss_D_A: 0.0032 loss_D_B: 0.0085
+[Training 51.0% Done] Epoch: 0
+ Total Losses: Total: 13.5823 loss_G: 13.5751 loss_D_A: 0.0038 loss_D_B: 0.0034
+[Training 51.4% Done] Epoch: 0
+ Total Losses: Total: 12.7580 loss_G: 12.7455 loss_D_A: 0.0044 loss_D_B: 0.0082
+[Training 51.7% Done] Epoch: 0
+ Total Losses: Total: 13.2063 loss_G: 12.9299 loss_D_A: 0.2740 loss_D_B: 0.0025
+[Training 52.1% Done] Epoch: 0
+ Total Losses: Total: 14.2944 loss_G: 14.2710 loss_D_A: 0.0184 loss_D_B: 0.0050
+[Training 52.4% Done] Epoch: 0
+ Total Losses: Total: 13.8095 loss_G: 13.8013 loss_D_A: 0.0047 loss_D_B: 0.0035
+[Training 52.8% Done] Epoch: 0
+ Total Losses: Total: 14.6303 loss_G: 14.6254 loss_D_A: 0.0026 loss_D_B: 0.0023
+[Training 53.1% Done] Epoch: 0
+ Total Losses: Total: 12.9436 loss_G: 12.9324 loss_D_A: 0.0058 loss_D_B: 0.0055
+[Training 53.5% Done] Epoch: 0
+ Total Losses: Total: 13.1274 loss_G: 13.0944 loss_D_A: 0.0304 loss_D_B: 0.0026
+[Training 53.8% Done] Epoch: 0
+ Total Losses: Total: 12.9711 loss_G: 12.9575 loss_D_A: 0.0089 loss_D_B: 0.0047
+[Training 54.2% Done] Epoch: 0
+ Total Losses: Total: 13.9529 loss_G: 13.9326 loss_D_A: 0.0175 loss_D_B: 0.0028
+[Training 54.5% Done] Epoch: 0
+ Total Losses: Total: 14.3029 loss_G: 14.2974 loss_D_A: 0.0022 loss_D_B: 0.0033
+[Training 54.9% Done] Epoch: 0
+ Total Losses: Total: 13.6154 loss_G: 13.6004 loss_D_A: 0.0119 loss_D_B: 0.0031
+[Training 55.2% Done] Epoch: 0
+ Total Losses: Total: 15.3524 loss_G: 15.3460 loss_D_A: 0.0040 loss_D_B: 0.0024
+[Training 55.6% Done] Epoch: 0
+ Total Losses: Total: 15.4632 loss_G: 15.4462 loss_D_A: 0.0146 loss_D_B: 0.0023
+[Training 55.9% Done] Epoch: 0
+ Total Losses: Total: 14.3477 loss_G: 14.2271 loss_D_A: 0.1179 loss_D_B: 0.0027
+[Training 56.2% Done] Epoch: 0
+ Total Losses: Total: 13.7458 loss_G: 13.7299 loss_D_A: 0.0113 loss_D_B: 0.0046
+[Training 56.6% Done] Epoch: 0
+ Total Losses: Total: 13.9345 loss_G: 13.9223 loss_D_A: 0.0098 loss_D_B: 0.0023
+[Training 56.9% Done] Epoch: 0
+ Total Losses: Total: 13.4481 loss_G: 13.3950 loss_D_A: 0.0506 loss_D_B: 0.0025
+[Training 57.3% Done] Epoch: 0
+ Total Losses: Total: 15.1092 loss_G: 14.5917 loss_D_A: 0.5154 loss_D_B: 0.0022
+[Training 57.6% Done] Epoch: 0
+ Total Losses: Total: 12.1144 loss_G: 12.0786 loss_D_A: 0.0332 loss_D_B: 0.0026
+[Training 58.0% Done] Epoch: 0
+ Total Losses: Total: 12.1365 loss_G: 12.1074 loss_D_A: 0.0265 loss_D_B: 0.0027
+[Training 58.3% Done] Epoch: 0
+ Total Losses: Total: 13.8310 loss_G: 13.8250 loss_D_A: 0.0029 loss_D_B: 0.0031
+[Training 58.7% Done] Epoch: 0
+ Total Losses: Total: 12.9515 loss_G: 12.9412 loss_D_A: 0.0066 loss_D_B: 0.0037
+[Training 59.0% Done] Epoch: 0
+ Total Losses: Total: 13.8840 loss_G: 13.8767 loss_D_A: 0.0047 loss_D_B: 0.0026
+[Training 59.4% Done] Epoch: 0
+ Total Losses: Total: 13.5946 loss_G: 13.5867 loss_D_A: 0.0057 loss_D_B: 0.0022
+[Training 59.7% Done] Epoch: 0
+ Total Losses: Total: 14.3636 loss_G: 14.3509 loss_D_A: 0.0081 loss_D_B: 0.0046
+[Training 60.1% Done] Epoch: 0
+ Total Losses: Total: 14.5060 loss_G: 14.5015 loss_D_A: 0.0026 loss_D_B: 0.0020
+[Training 60.4% Done] Epoch: 0
+ Total Losses: Total: 13.2161 loss_G: 13.1924 loss_D_A: 0.0170 loss_D_B: 0.0067
+[Training 60.8% Done] Epoch: 0
+ Total Losses: Total: 12.9761 loss_G: 12.9680 loss_D_A: 0.0051 loss_D_B: 0.0030
+[Training 61.1% Done] Epoch: 0
+ Total Losses: Total: 14.5951 loss_G: 14.5826 loss_D_A: 0.0079 loss_D_B: 0.0045
+[Training 61.5% Done] Epoch: 0
+ Total Losses: Total: 13.4000 loss_G: 13.3921 loss_D_A: 0.0058 loss_D_B: 0.0022
+[Training 61.8% Done] Epoch: 0
+ Total Losses: Total: 13.3566 loss_G: 13.3248 loss_D_A: 0.0286 loss_D_B: 0.0032
+[Training 62.2% Done] Epoch: 0
+ Total Losses: Total: 12.7474 loss_G: 12.6910 loss_D_A: 0.0539 loss_D_B: 0.0025
+[Training 62.5% Done] Epoch: 0
+ Total Losses: Total: 12.9317 loss_G: 12.9221 loss_D_A: 0.0072 loss_D_B: 0.0024
+[Training 62.8% Done] Epoch: 0
+ Total Losses: Total: 14.3005 loss_G: 14.2791 loss_D_A: 0.0197 loss_D_B: 0.0017
+[Training 63.2% Done] Epoch: 0
+ Total Losses: Total: 13.9751 loss_G: 13.9680 loss_D_A: 0.0052 loss_D_B: 0.0019
+[Training 63.5% Done] Epoch: 0
+ Total Losses: Total: 14.2888 loss_G: 14.2818 loss_D_A: 0.0049 loss_D_B: 0.0020
+[Training 63.9% Done] Epoch: 0
+ Total Losses: Total: 14.1018 loss_G: 14.0954 loss_D_A: 0.0045 loss_D_B: 0.0019
+[Training 64.2% Done] Epoch: 0
+ Total Losses: Total: 14.1177 loss_G: 14.0797 loss_D_A: 0.0359 loss_D_B: 0.0020
+[Training 64.6% Done] Epoch: 0
+ Total Losses: Total: 13.6512 loss_G: 13.6433 loss_D_A: 0.0061 loss_D_B: 0.0018
+[Training 64.9% Done] Epoch: 0
+ Total Losses: Total: 15.2047 loss_G: 15.1009 loss_D_A: 0.1020 loss_D_B: 0.0018
+[Training 65.3% Done] Epoch: 0
+ Total Losses: Total: 14.1243 loss_G: 14.0773 loss_D_A: 0.0454 loss_D_B: 0.0016
+[Training 65.6% Done] Epoch: 0
+ Total Losses: Total: 13.6481 loss_G: 13.6253 loss_D_A: 0.0210 loss_D_B: 0.0018
+[Training 66.0% Done] Epoch: 0
+ Total Losses: Total: 13.2387 loss_G: 13.1704 loss_D_A: 0.0665 loss_D_B: 0.0018
+[Training 66.3% Done] Epoch: 0
+ Total Losses: Total: 12.8823 loss_G: 12.8692 loss_D_A: 0.0114 loss_D_B: 0.0017
+[Training 66.7% Done] Epoch: 0
+ Total Losses: Total: 14.9311 loss_G: 14.9215 loss_D_A: 0.0080 loss_D_B: 0.0016
+[Training 67.0% Done] Epoch: 0
+ Total Losses: Total: 13.1203 loss_G: 13.0643 loss_D_A: 0.0542 loss_D_B: 0.0018
+[Training 67.4% Done] Epoch: 0
+ Total Losses: Total: 14.0167 loss_G: 14.0050 loss_D_A: 0.0100 loss_D_B: 0.0017
+[Training 67.7% Done] Epoch: 0
+ Total Losses: Total: 13.9400 loss_G: 13.7031 loss_D_A: 0.2351 loss_D_B: 0.0018
+[Training 68.1% Done] Epoch: 0
+ Total Losses: Total: 14.1830 loss_G: 14.1689 loss_D_A: 0.0124 loss_D_B: 0.0017
+[Training 68.4% Done] Epoch: 0
+ Total Losses: Total: 14.1549 loss_G: 14.1321 loss_D_A: 0.0212 loss_D_B: 0.0016
+[Training 68.8% Done] Epoch: 0
+ Total Losses: Total: 14.3471 loss_G: 14.3427 loss_D_A: 0.0025 loss_D_B: 0.0019
+[Training 69.1% Done] Epoch: 0
+ Total Losses: Total: 13.9653 loss_G: 13.9584 loss_D_A: 0.0053 loss_D_B: 0.0016
+[Training 69.4% Done] Epoch: 0
+ Total Losses: Total: 14.6749 loss_G: 14.6096 loss_D_A: 0.0637 loss_D_B: 0.0016
+[Training 69.8% Done] Epoch: 0
+ Total Losses: Total: 13.5776 loss_G: 13.5650 loss_D_A: 0.0108 loss_D_B: 0.0019
+[Training 70.1% Done] Epoch: 0
+ Total Losses: Total: 13.3197 loss_G: 13.2900 loss_D_A: 0.0282 loss_D_B: 0.0015
+[Training 70.5% Done] Epoch: 0
+ Total Losses: Total: 14.5496 loss_G: 14.5212 loss_D_A: 0.0268 loss_D_B: 0.0016
+[Training 70.8% Done] Epoch: 0
+ Total Losses: Total: 14.0569 loss_G: 13.9977 loss_D_A: 0.0575 loss_D_B: 0.0017
+[Training 71.2% Done] Epoch: 0
+ Total Losses: Total: 13.6194 loss_G: 13.6005 loss_D_A: 0.0175 loss_D_B: 0.0014
+[Training 71.5% Done] Epoch: 0
+ Total Losses: Total: 10.6877 loss_G: 10.3045 loss_D_A: 0.3817 loss_D_B: 0.0016
+[Training 71.9% Done] Epoch: 0
+ Total Losses: Total: 12.8192 loss_G: 12.7922 loss_D_A: 0.0255 loss_D_B: 0.0015
+[Training 72.2% Done] Epoch: 0
+ Total Losses: Total: 13.5227 loss_G: 13.5015 loss_D_A: 0.0186 loss_D_B: 0.0025
+[Training 72.6% Done] Epoch: 0
+ Total Losses: Total: 12.7251 loss_G: 12.7031 loss_D_A: 0.0205 loss_D_B: 0.0015
+[Training 72.9% Done] Epoch: 0
+ Total Losses: Total: 12.5834 loss_G: 12.5483 loss_D_A: 0.0336 loss_D_B: 0.0015
+[Training 73.3% Done] Epoch: 0
+ Total Losses: Total: 13.3137 loss_G: 12.9812 loss_D_A: 0.3310 loss_D_B: 0.0015
+[Training 73.6% Done] Epoch: 0
+ Total Losses: Total: 14.2764 loss_G: 14.0984 loss_D_A: 0.1763 loss_D_B: 0.0016
+[Training 74.0% Done] Epoch: 0
+ Total Losses: Total: 12.5138 loss_G: 12.1344 loss_D_A: 0.3779 loss_D_B: 0.0015
+[Training 74.3% Done] Epoch: 0
+ Total Losses: Total: 13.6294 loss_G: 13.5869 loss_D_A: 0.0411 loss_D_B: 0.0014
+[Training 74.7% Done] Epoch: 0
+ Total Losses: Total: 11.0093 loss_G: 10.8062 loss_D_A: 0.2015 loss_D_B: 0.0016
+[Training 75.0% Done] Epoch: 0
+ Total Losses: Total: 13.4743 loss_G: 13.2790 loss_D_A: 0.1940 loss_D_B: 0.0013
+[Training 75.3% Done] Epoch: 0
+ Total Losses: Total: 11.9874 loss_G: 11.8826 loss_D_A: 0.1032 loss_D_B: 0.0016
+[Training 75.7% Done] Epoch: 0
+ Total Losses: Total: 13.8016 loss_G: 13.7751 loss_D_A: 0.0252 loss_D_B: 0.0014
+[Training 76.0% Done] Epoch: 0
+ Total Losses: Total: 12.5044 loss_G: 12.4657 loss_D_A: 0.0373 loss_D_B: 0.0014
+[Training 76.4% Done] Epoch: 0
+ Total Losses: Total: 13.3758 loss_G: 13.3502 loss_D_A: 0.0243 loss_D_B: 0.0013
+[Training 76.7% Done] Epoch: 0
+ Total Losses: Total: 12.5875 loss_G: 12.5506 loss_D_A: 0.0350 loss_D_B: 0.0019
+[Training 77.1% Done] Epoch: 0
+ Total Losses: Total: 13.3508 loss_G: 13.2585 loss_D_A: 0.0910 loss_D_B: 0.0013
+[Training 77.4% Done] Epoch: 0
+ Total Losses: Total: 12.0267 loss_G: 11.9491 loss_D_A: 0.0761 loss_D_B: 0.0014
+[Training 77.8% Done] Epoch: 0
+ Total Losses: Total: 12.9821 loss_G: 12.9406 loss_D_A: 0.0403 loss_D_B: 0.0012
+[Training 78.1% Done] Epoch: 0
+ Total Losses: Total: 13.7100 loss_G: 13.4109 loss_D_A: 0.2978 loss_D_B: 0.0014
+[Training 78.5% Done] Epoch: 0
+ Total Losses: Total: 13.0636 loss_G: 13.0184 loss_D_A: 0.0439 loss_D_B: 0.0013
+[Training 78.8% Done] Epoch: 0
+ Total Losses: Total: 13.6079 loss_G: 13.5936 loss_D_A: 0.0131 loss_D_B: 0.0013
+[Training 79.2% Done] Epoch: 0
+ Total Losses: Total: 12.5300 loss_G: 12.4879 loss_D_A: 0.0406 loss_D_B: 0.0014
+[Training 79.5% Done] Epoch: 0
+ Total Losses: Total: 13.3579 loss_G: 13.3317 loss_D_A: 0.0247 loss_D_B: 0.0014
+[Training 79.9% Done] Epoch: 0
+ Total Losses: Total: 14.5077 loss_G: 14.4893 loss_D_A: 0.0172 loss_D_B: 0.0012
+[Training 80.2% Done] Epoch: 0
+ Total Losses: Total: 14.0059 loss_G: 13.9967 loss_D_A: 0.0079 loss_D_B: 0.0013
+[Training 80.6% Done] Epoch: 0
+ Total Losses: Total: 13.3109 loss_G: 13.2823 loss_D_A: 0.0273 loss_D_B: 0.0013
+[Training 80.9% Done] Epoch: 0
+ Total Losses: Total: 13.6027 loss_G: 13.5930 loss_D_A: 0.0086 loss_D_B: 0.0012
+[Training 81.2% Done] Epoch: 0
+ Total Losses: Total: 12.3270 loss_G: 12.0271 loss_D_A: 0.2855 loss_D_B: 0.0143
+[Training 81.6% Done] Epoch: 0
+ Total Losses: Total: 13.7497 loss_G: 13.7211 loss_D_A: 0.0273 loss_D_B: 0.0013
+[Training 81.9% Done] Epoch: 0
+ Total Losses: Total: 14.7537 loss_G: 14.7403 loss_D_A: 0.0123 loss_D_B: 0.0011
+[Training 82.3% Done] Epoch: 0
+ Total Losses: Total: 13.7558 loss_G: 13.7472 loss_D_A: 0.0072 loss_D_B: 0.0013
+[Training 82.6% Done] Epoch: 0
+ Total Losses: Total: 12.5488 loss_G: 12.1386 loss_D_A: 0.4090 loss_D_B: 0.0013
+[Training 83.0% Done] Epoch: 0
+ Total Losses: Total: 13.9424 loss_G: 13.9188 loss_D_A: 0.0224 loss_D_B: 0.0011
+[Training 83.3% Done] Epoch: 0
+ Total Losses: Total: 13.4329 loss_G: 13.2837 loss_D_A: 0.1479 loss_D_B: 0.0013
+[Training 83.7% Done] Epoch: 0
+ Total Losses: Total: 14.0366 loss_G: 14.0193 loss_D_A: 0.0160 loss_D_B: 0.0013
+[Training 84.0% Done] Epoch: 0
+ Total Losses: Total: 14.3847 loss_G: 13.7622 loss_D_A: 0.6212 loss_D_B: 0.0013
+[Training 84.4% Done] Epoch: 0
+ Total Losses: Total: 15.3261 loss_G: 14.8498 loss_D_A: 0.4751 loss_D_B: 0.0012
+[Training 84.7% Done] Epoch: 0
+ Total Losses: Total: 13.0671 loss_G: 13.0231 loss_D_A: 0.0428 loss_D_B: 0.0012
+[Training 85.1% Done] Epoch: 0
+ Total Losses: Total: 13.5486 loss_G: 13.5361 loss_D_A: 0.0113 loss_D_B: 0.0012
+[Training 85.4% Done] Epoch: 0
+ Total Losses: Total: 13.9032 loss_G: 13.8694 loss_D_A: 0.0325 loss_D_B: 0.0012
+[Training 85.8% Done] Epoch: 0
+ Total Losses: Total: 13.5152 loss_G: 13.4595 loss_D_A: 0.0545 loss_D_B: 0.0012
+[Training 86.1% Done] Epoch: 0
+ Total Losses: Total: 12.7535 loss_G: 12.7248 loss_D_A: 0.0275 loss_D_B: 0.0011
+[Training 86.5% Done] Epoch: 0
+ Total Losses: Total: 13.2059 loss_G: 13.1891 loss_D_A: 0.0157 loss_D_B: 0.0011
+[Training 86.8% Done] Epoch: 0
+ Total Losses: Total: 13.0209 loss_G: 12.9911 loss_D_A: 0.0287 loss_D_B: 0.0011
+[Training 87.2% Done] Epoch: 0
+ Total Losses: Total: 13.8438 loss_G: 13.8187 loss_D_A: 0.0239 loss_D_B: 0.0011
+[Training 87.5% Done] Epoch: 0
+ Total Losses: Total: 13.5015 loss_G: 13.4817 loss_D_A: 0.0186 loss_D_B: 0.0011
+[Training 87.8% Done] Epoch: 0
+ Total Losses: Total: 14.9056 loss_G: 14.8968 loss_D_A: 0.0079 loss_D_B: 0.0009
+[Training 88.2% Done] Epoch: 0
+ Total Losses: Total: 13.9068 loss_G: 13.8971 loss_D_A: 0.0086 loss_D_B: 0.0011
+[Training 88.5% Done] Epoch: 0
+ Total Losses: Total: 13.4119 loss_G: 13.3653 loss_D_A: 0.0456 loss_D_B: 0.0011
+[Training 88.9% Done] Epoch: 0
+ Total Losses: Total: 13.9832 loss_G: 13.8351 loss_D_A: 0.1471 loss_D_B: 0.0010
+[Training 89.2% Done] Epoch: 0
+ Total Losses: Total: 13.0678 loss_G: 13.0452 loss_D_A: 0.0215 loss_D_B: 0.0011
+[Training 89.6% Done] Epoch: 0
+ Total Losses: Total: 14.6223 loss_G: 14.6102 loss_D_A: 0.0111 loss_D_B: 0.0010
+[Training 89.9% Done] Epoch: 0
+ Total Losses: Total: 13.7398 loss_G: 13.7297 loss_D_A: 0.0091 loss_D_B: 0.0010
+[Training 90.3% Done] Epoch: 0
+ Total Losses: Total: 14.1672 loss_G: 14.1564 loss_D_A: 0.0098 loss_D_B: 0.0011
+[Training 90.6% Done] Epoch: 0
+ Total Losses: Total: 12.8299 loss_G: 12.8114 loss_D_A: 0.0174 loss_D_B: 0.0011
+[Training 91.0% Done] Epoch: 0
+ Total Losses: Total: 13.2898 loss_G: 13.2796 loss_D_A: 0.0092 loss_D_B: 0.0011
+[Training 91.3% Done] Epoch: 0
+ Total Losses: Total: 13.3846 loss_G: 13.3672 loss_D_A: 0.0163 loss_D_B: 0.0011
+[Training 91.7% Done] Epoch: 0
+ Total Losses: Total: 14.0372 loss_G: 14.0255 loss_D_A: 0.0107 loss_D_B: 0.0010
+[Training 92.0% Done] Epoch: 0
+ Total Losses: Total: 13.7706 loss_G: 13.7536 loss_D_A: 0.0161 loss_D_B: 0.0008
+[Training 92.4% Done] Epoch: 0
+ Total Losses: Total: 14.4254 loss_G: 14.4103 loss_D_A: 0.0140 loss_D_B: 0.0010
+[Training 92.7% Done] Epoch: 0
+ Total Losses: Total: 13.6362 loss_G: 13.6245 loss_D_A: 0.0106 loss_D_B: 0.0011
+[Training 93.1% Done] Epoch: 0
+ Total Losses: Total: 13.6953 loss_G: 13.6841 loss_D_A: 0.0103 loss_D_B: 0.0009
+[Training 93.4% Done] Epoch: 0
+ Total Losses: Total: 13.0000 loss_G: 12.9824 loss_D_A: 0.0166 loss_D_B: 0.0011
+[Training 93.8% Done] Epoch: 0
+ Total Losses: Total: 14.3092 loss_G: 14.2159 loss_D_A: 0.0924 loss_D_B: 0.0009
+[Training 94.1% Done] Epoch: 0
+ Total Losses: Total: 13.6774 loss_G: 13.6617 loss_D_A: 0.0147 loss_D_B: 0.0011
+[Training 94.4% Done] Epoch: 0
+ Total Losses: Total: 14.3865 loss_G: 14.3786 loss_D_A: 0.0070 loss_D_B: 0.0009
+[Training 94.8% Done] Epoch: 0
+ Total Losses: Total: 13.4086 loss_G: 13.3874 loss_D_A: 0.0203 loss_D_B: 0.0010
+[Training 95.1% Done] Epoch: 0
+ Total Losses: Total: 14.3989 loss_G: 14.3821 loss_D_A: 0.0158 loss_D_B: 0.0010
+[Training 95.5% Done] Epoch: 0
+ Total Losses: Total: 14.4824 loss_G: 14.4718 loss_D_A: 0.0097 loss_D_B: 0.0009
+[Training 95.8% Done] Epoch: 0
+ Total Losses: Total: 14.7012 loss_G: 14.6957 loss_D_A: 0.0047 loss_D_B: 0.0009
+[Training 96.2% Done] Epoch: 0
+ Total Losses: Total: 12.8954 loss_G: 12.8529 loss_D_A: 0.0415 loss_D_B: 0.0010
+[Training 96.5% Done] Epoch: 0
+ Total Losses: Total: 13.1191 loss_G: 13.0977 loss_D_A: 0.0204 loss_D_B: 0.0010
+[Training 96.9% Done] Epoch: 0
+ Total Losses: Total: 14.0511 loss_G: 14.0416 loss_D_A: 0.0081 loss_D_B: 0.0013
+[Training 97.2% Done] Epoch: 0
+ Total Losses: Total: 12.6454 loss_G: 12.6062 loss_D_A: 0.0382 loss_D_B: 0.0010
+[Training 97.6% Done] Epoch: 0
+ Total Losses: Total: 13.6205 loss_G: 13.6123 loss_D_A: 0.0073 loss_D_B: 0.0009
+[Training 97.9% Done] Epoch: 0
+ Total Losses: Total: 12.5250 loss_G: 12.4856 loss_D_A: 0.0162 loss_D_B: 0.0232
+[Training 98.3% Done] Epoch: 0
+ Total Losses: Total: 14.9205 loss_G: 12.9169 loss_D_A: 0.0351 loss_D_B: 1.9685
+[Training 98.6% Done] Epoch: 0
+ Total Losses: Total: 8.8705 loss_G: 8.2672 loss_D_A: 0.0142 loss_D_B: 0.5891
+[Training 99.0% Done] Epoch: 0
+ Total Losses: Total: 7.8827 loss_G: 6.9411 loss_D_A: 0.0264 loss_D_B: 0.9152
+[Training 99.3% Done] Epoch: 0
+ Total Losses: Total: 7.9572 loss_G: 7.2680 loss_D_A: 0.0084 loss_D_B: 0.6808
+[Training 99.7% Done] Epoch: 0
+ Total Losses: Total: 7.2047 loss_G: 6.7727 loss_D_A: 0.0213 loss_D_B: 0.4107
+TORCH NO GRAD SKRRRRT
+[Testing 0.0% Done] Epoch: 0
+[Testing 0.8% Done] Epoch: 0
+[Testing 1.6% Done] Epoch: 0
+[Testing 2.4% Done] Epoch: 0
+[Testing 3.3% Done] Epoch: 0
+[Testing 4.1% Done] Epoch: 0
+[Testing 4.9% Done] Epoch: 0
+[Testing 5.7% Done] Epoch: 0
+[Testing 6.5% Done] Epoch: 0
+[Testing 7.3% Done] Epoch: 0
+[Testing 8.1% Done] Epoch: 0
+[Testing 8.9% Done] Epoch: 0
+[Testing 9.8% Done] Epoch: 0
+[Testing 10.6% Done] Epoch: 0
+[Testing 11.4% Done] Epoch: 0
+[Testing 12.2% Done] Epoch: 0
+[Testing 13.0% Done] Epoch: 0
+[Testing 13.8% Done] Epoch: 0
+[Testing 14.6% Done] Epoch: 0
+[Testing 15.4% Done] Epoch: 0
+[Testing 16.3% Done] Epoch: 0
+[Testing 17.1% Done] Epoch: 0
+[Testing 17.9% Done] Epoch: 0
+[Testing 18.7% Done] Epoch: 0
+[Testing 19.5% Done] Epoch: 0
+[Testing 20.3% Done] Epoch: 0
+[Testing 21.1% Done] Epoch: 0
+[Testing 22.0% Done] Epoch: 0
+[Testing 22.8% Done] Epoch: 0
+[Testing 23.6% Done] Epoch: 0
+[Testing 24.4% Done] Epoch: 0
+[Testing 25.2% Done] Epoch: 0
+[Testing 26.0% Done] Epoch: 0
+[Testing 26.8% Done] Epoch: 0
+[Testing 27.6% Done] Epoch: 0
+[Testing 28.5% Done] Epoch: 0
+[Testing 29.3% Done] Epoch: 0
+[Testing 30.1% Done] Epoch: 0
+[Testing 30.9% Done] Epoch: 0
+[Testing 31.7% Done] Epoch: 0
+[Testing 32.5% Done] Epoch: 0
+[Testing 33.3% Done] Epoch: 0
+[Testing 34.1% Done] Epoch: 0
+[Testing 35.0% Done] Epoch: 0
+[Testing 35.8% Done] Epoch: 0
+[Testing 36.6% Done] Epoch: 0
+[Testing 37.4% Done] Epoch: 0
+[Testing 38.2% Done] Epoch: 0
+[Testing 39.0% Done] Epoch: 0
+[Testing 39.8% Done] Epoch: 0
+[Testing 40.7% Done] Epoch: 0
+[Testing 41.5% Done] Epoch: 0
+[Testing 42.3% Done] Epoch: 0
+[Testing 43.1% Done] Epoch: 0
+[Testing 43.9% Done] Epoch: 0
+[Testing 44.7% Done] Epoch: 0
+[Testing 45.5% Done] Epoch: 0
+[Testing 46.3% Done] Epoch: 0
+[Testing 47.2% Done] Epoch: 0
+[Testing 48.0% Done] Epoch: 0
+[Testing 48.8% Done] Epoch: 0
+[Testing 49.6% Done] Epoch: 0
+[Testing 50.4% Done] Epoch: 0
+[Testing 51.2% Done] Epoch: 0
+[Testing 52.0% Done] Epoch: 0
+[Testing 52.8% Done] Epoch: 0
+[Testing 53.7% Done] Epoch: 0
+[Testing 54.5% Done] Epoch: 0
+[Testing 55.3% Done] Epoch: 0
+[Testing 56.1% Done] Epoch: 0
+[Testing 56.9% Done] Epoch: 0
+[Testing 57.7% Done] Epoch: 0
+[Testing 58.5% Done] Epoch: 0
+[Testing 59.3% Done] Epoch: 0
+[Testing 60.2% Done] Epoch: 0
+[Testing 61.0% Done] Epoch: 0
+[Testing 61.8% Done] Epoch: 0
+[Testing 62.6% Done] Epoch: 0
+[Testing 63.4% Done] Epoch: 0
+[Testing 64.2% Done] Epoch: 0
+[Testing 65.0% Done] Epoch: 0
+[Testing 65.9% Done] Epoch: 0
+[Testing 66.7% Done] Epoch: 0
+[Testing 67.5% Done] Epoch: 0
+[Testing 68.3% Done] Epoch: 0
+[Testing 69.1% Done] Epoch: 0
+[Testing 69.9% Done] Epoch: 0
+[Testing 70.7% Done] Epoch: 0
+[Testing 71.5% Done] Epoch: 0
+[Testing 72.4% Done] Epoch: 0
+[Testing 73.2% Done] Epoch: 0
+[Testing 74.0% Done] Epoch: 0
+[Testing 74.8% Done] Epoch: 0
+[Testing 75.6% Done] Epoch: 0
+[Testing 76.4% Done] Epoch: 0
+[Testing 77.2% Done] Epoch: 0
+[Testing 78.0% Done] Epoch: 0
+[Testing 78.9% Done] Epoch: 0
+[Testing 79.7% Done] Epoch: 0
+[Testing 80.5% Done] Epoch: 0
+[Testing 81.3% Done] Epoch: 0
+[Testing 82.1% Done] Epoch: 0
+[Testing 82.9% Done] Epoch: 0
+[Testing 83.7% Done] Epoch: 0
+[Testing 84.6% Done] Epoch: 0
+[Testing 85.4% Done] Epoch: 0
+[Testing 86.2% Done] Epoch: 0
+[Testing 87.0% Done] Epoch: 0
+[Testing 87.8% Done] Epoch: 0
+[Testing 88.6% Done] Epoch: 0
+[Testing 89.4% Done] Epoch: 0
+[Testing 90.2% Done] Epoch: 0
+[Testing 91.1% Done] Epoch: 0
+[Testing 91.9% Done] Epoch: 0
+[Testing 92.7% Done] Epoch: 0
+[Testing 93.5% Done] Epoch: 0
+[Testing 94.3% Done] Epoch: 0
+[Testing 95.1% Done] Epoch: 0
+[Testing 95.9% Done] Epoch: 0
+[Testing 96.7% Done] Epoch: 0
+[Testing 97.6% Done] Epoch: 0
+[Testing 98.4% Done] Epoch: 0
+[Testing 99.2% Done] Epoch: 0
+{'TEST mean loss_Total': 8.67750572964428, 'TEST mean loss_G': 8.336840621824187, 'TEST mean loss_D_A': 0.05251304890082135, 'TEST mean loss_D_B': 0.2881520589192708}
+Time taken to train: 79.02596974372864

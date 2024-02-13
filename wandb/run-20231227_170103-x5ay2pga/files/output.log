@@ -1,0 +1,51 @@
+
+Read a single batch from the test loader, translating it through the ATN
+Plot simulated pulses, data pulses and translated pulses in the same plot.
+[Slow code]: Obtain the critical reconstruction parameters of each waveform by looping through the test dataset
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 99%|█████████▉| 1207/1218 [00:57<00:00, 21.31it/s]
+100%|██████████| 1218/1218 [00:58<00:00, 20.97it/s]
+/cm/shared/apps/spack/0.17.3/gpu/b/opt/spack/linux-rocky8-skylake_avx512/gcc-8.5.0/anaconda3-2021.05-kfluefzsateihlamuk2qihp56exwe7si/lib/python3.8/site-packages/scipy/stats/_continuous_distns.py:354: RuntimeWarning: Mean of empty slice.
+  loc = data.mean()
+/cm/shared/apps/spack/0.17.3/gpu/b/opt/spack/linux-rocky8-skylake_avx512/gcc-8.5.0/anaconda3-2021.05-kfluefzsateihlamuk2qihp56exwe7si/lib/python3.8/site-packages/numpy/core/_methods.py:188: RuntimeWarning: invalid value encountered in true_divide
+  ret = ret.dtype.type(ret / rcount)
+/cm/shared/apps/spack/0.17.3/gpu/b/opt/spack/linux-rocky8-skylake_avx512/gcc-8.5.0/anaconda3-2021.05-kfluefzsateihlamuk2qihp56exwe7si/lib/python3.8/site-packages/scipy/stats/_continuous_distns.py:359: RuntimeWarning: Mean of empty slice.
+  scale = np.sqrt(((data - loc)**2).mean())
+/home/eku/.local/lib/python3.8/site-packages/matplotlib/axes/_axes.py:6763: RuntimeWarning: All-NaN slice encountered
+  xmin = min(xmin, np.nanmin(xi))
+/home/eku/.local/lib/python3.8/site-packages/matplotlib/axes/_axes.py:6764: RuntimeWarning: All-NaN slice encountered
+  xmax = max(xmax, np.nanmax(xi))
+/cm/shared/apps/spack/0.17.3/gpu/b/opt/spack/linux-rocky8-skylake_avx512/gcc-8.5.0/anaconda3-2021.05-kfluefzsateihlamuk2qihp56exwe7si/lib/python3.8/site-packages/numpy/lib/histograms.py:905: RuntimeWarning: invalid value encountered in true_divide
+  return n/db/n.sum(), bin_edges
+normalized slope_HIoU:
+nan
+-------
+current AMP HIOU:
+5.5915101503118425
