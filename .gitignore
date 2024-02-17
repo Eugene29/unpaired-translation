@@ -5,20 +5,19 @@
 *.hdf5
 
 wandb/
-network-og.py \
-og_TrainAndPlot.ipynb \
-test_data_noise.png \
-denoised_test_data.png  \
-denoised_train_data.png  \
-denoising_simulated_data.png  \
-generated.png  \
-generated_from_detector_data.png  \
-generated_from_noise.png  \
-generated_from_simulated_data.png  \
-testing.png \
+network-og.py
+og_TrainAndPlot.ipynb
+test_data_noise.png
+denoised_test_data.png 
+denoised_train_data.png 
+denoising_simulated_data.png 
+generated.png 
+generated_from_detector_data.png 
+generated_from_noise.png 
+generated_from_simulated_data.png 
+testing.png
 train_data_noise.png 
-test.py \
-
+test.py
 12*
 3*
 6*
