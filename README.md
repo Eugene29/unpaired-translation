@@ -2,6 +2,7 @@
 We have trained a diffusion model to generate a simulated waveform from gaussian noise.
 
 Demonstration:
+
 ![Alt text](16_generating_from_noise.gif)
 
 Diffusion Model Predicting Noise
