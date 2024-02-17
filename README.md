@@ -5,7 +5,7 @@ Demonstration:
 
 ![Alt text](16_generating_from_noise.gif)
 
-Diffusion Model Predicting Noise
+Diffusion Model Predicting Noise (orange - noise, light green - predicted noise, dark green - intersection of the two)
 ![Alt text](16_denoised_train_data.png)
 
 # Transformer + Cycle-GAN Models (Unpaired translation between simulated and detector waveforms)
