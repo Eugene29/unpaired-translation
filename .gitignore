@@ -3,3 +3,7 @@
 *.pt
 *.pickle
 *.hdf5
+
+network-og.py 
+og_TrainAndPlot.ipynb 
+test_data_noise.png
