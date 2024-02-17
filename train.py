@@ -58,8 +58,8 @@ BATCH_SIZE = 16
 ITERS = 1
 DECAY = 500
 LRATE = 1e-3
-target_real = torch.ones(BATCH_SIZE,1)
-target_fake = torch.zeros(BATCH_SIZE,1)
+target_real = torch.ones(BATCH_SIZE // accelerator.state.num_processes,1)
+target_fake = torch.zeros(BATCH_SIZE // accelerator.state.num_processes,1)
 
 ## Immigrate to argsparse later
 ## sys input

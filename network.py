@@ -152,7 +152,8 @@ class PositionalUNet(nn.Module):
         else:
             std = logvar.mul(0.5).exp_()
             eps = torch.randn_like(mu)
-            print("uh oh, reparamtrization during evaluation? nuh uh!")
+            print("Reparametrization is turned off.")
+            # print("uh oh, reparamtrization during evaluation? nuh uh!")
             return eps.mul(std).add_(mu)
     
     # @torchsnooper.snoop()

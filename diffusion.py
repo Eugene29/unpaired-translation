@@ -70,16 +70,27 @@ def forward_diffusion(x, t, noise):
     # print(b_t.device)
     return ab_t.sqrt()[t, None, None] * x + (1 - ab_t.sqrt()[t, None, None]) * noise
 
+from torch.optim.lr_scheduler import CosineAnnealingLR
+
 m = Diffusion_PUNet()
 optimizer = torch.optim.Adam(m.parameters(), lr=1e-3)
 # m, optimizer, train_loader, test_loader, b_t, a_t, ab_t = accelerator.prepare(m, optimizer, train_loader, test_loader, b_t, a_t, ab_t)
-m, optimizer, train_loader, test_loader = accelerator.prepare(m, optimizer, train_loader, test_loader)
+scheduler = CosineAnnealingLR(optimizer, T_max=args.epochs, eta_min=0.00001)
+m, optimizer, scheduler, train_loader, test_loader = accelerator.prepare(m, optimizer, scheduler, train_loader, test_loader)
 accelerator.print(f"Total num of parameters: {sum([p.numel() for p in m.parameters()])}")
-# b_t = b_t.to(accelerator.device)
-# a_t = a_t.to(accelerator.device)
-# ab_t = ab_t.to(accelerator.device)
+
+# ## load pre-trained to test
+# state_dict = torch.load("pre_trained_diffusion.pth")
+# from collections import OrderedDict
+# new_state_dict = OrderedDict()
+# for k, v in state_dict.items():
+#     # name = k[7:] 
+#     name = "module."+k
+#     new_state_dict[name] = v
+# m.load_state_dict(new_state_dict)
 
 for epoch in pbar:
+    ## Training Loop
     total_loss = 0
     for i, (real_A, real_B, _) in enumerate(train_loader):
         ## real_A = detector, real_B = simulated
@@ -92,11 +103,28 @@ for epoch in pbar:
         total_loss += loss.item()
         accelerator.backward(loss)
         optimizer.step()
+    scheduler.step()
+    accelerator.print(f"Learning Rate for the previous epoch: {scheduler.get_last_lr()}")
     accelerator.print(f"loss: {total_loss / len(train_loader)}")
     total_loss = 0
-    for i, (real_A, real_B, _) in enumerate(test_loader):
-        ## real_A = detector, real_B = simulated
-        with torch.no_grad():
+
+    ## plot the last denoising of training
+    with torch.no_grad():
+        if epoch == args.epochs - 1:
+            # fig, axs = plt.subplots(2, 2, figsize=(10, 10))
+            # for i, ax in enumerate(axs.flatten()):
+            #     if i >= real_B.size(0):
+            #         break
+            plt.close()
+            plt.plot(range(800), real_B[0].squeeze().detach().cpu())
+            plt.plot(range(800), ((1 - ab_t.sqrt()[t, None, None]) * noise)[0].detach().cpu().squeeze(), alpha=0.7)
+            plt.plot(range(800), out[0].squeeze().detach().cpu(), alpha=0.5)
+            plt.tight_layout()
+            plt.savefig(f"{args.epochs}_denoised_train_data.png", dpi = 300)
+            plt.close()
+        ## Validation Loop
+        for i, (real_A, real_B, _) in enumerate(test_loader):
+            ## real_A = detector, real_B = simulated
             noise = torch.randn_like(real_B)
             t = torch.randint(1, timestep+1, (BATCH_SIZE//accelerator.state.num_processes,), device=accelerator.device)
             diffused = forward_diffusion(real_B, t, noise)
@@ -106,20 +134,34 @@ for epoch in pbar:
     # accelerator.print(f"loss: {total_loss / len(train_loader)}") ## seems like we don't need gather_for_metrics?
     accelerator.print(f"loss: {accelerator.gather_for_metrics(total_loss).sum() / len(test_loader)}")
 
-## print last diffused image and restored image
+# plt.figure(figsize=(10, 6))
+## print last diffused image from test set #and restored image
+    
+# fig, axs = plt.subplots(2, 2, figsize=(10, 10))
+# for i, ax in enumerate(axs.flatten()):
+    # if i >= real_B.size(0):
+    #     break
+plt.plot(range(800), real_B[0].squeeze().detach().cpu())
+plt.plot(range(800), ((1 - ab_t.sqrt()[t, None, None]) * noise)[0].detach().cpu().squeeze(), alpha=0.7)
+plt.plot(range(800), out[0].squeeze().detach().cpu(), alpha=0.5)
+plt.tight_layout()
+plt.savefig(f"{args.epochs}_denoised_test_data.png", dpi = 300)
 plt.close()
-plt.figure(figsize=(10, 6))
-plt.plot(range(800), real_B[2].detach().cpu().squeeze())
-plt.plot(range(800), diffused[2].detach().cpu().squeeze())
-plt.plot(range(800), out[2].detach().cpu().squeeze())
-plt.savefig("testing.png", dpi = 300)
+    
+# plt.subplot(1, 2, 2)
+# plt.title("Test single data")
+# plt.plot(range(800), real_B[2].detach().cpu().squeeze())
+# plt.plot(range(800), ((1 - ab_t.sqrt()[t, None, None]) * noise)[2].detach().cpu().squeeze())
+# plt.plot(range(800), out[2].detach().cpu().squeeze())
+# plt.tight_layout()
+# plt.savefig("testing.png", dpi = 300)
 # Show the plot
-plt.show()
+# plt.show()
 
 if hasattr(m, "module"):
-    torch.save(m.module.get_state_dict(), "pre_trained_diffusion.pth")
+    torch.save(m.module.state_dict(), f"{args.epochs}_pre_trained_diffusion.pth")
 else:
-    torch.save(m.get_state_dict(), "pre_trained_diffusion.pth")
+    torch.save(m.state_dict(), f"{args.epochs}_pre_trained_diffusion.pth")
 
 ## this function is for after having a trained model
 # def sample_ddpm(n_sample, save_rate=20):
